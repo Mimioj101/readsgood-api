@@ -1,0 +1,2 @@
+module WantToReadsHelper
+end

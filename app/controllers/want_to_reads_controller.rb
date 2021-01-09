@@ -1,0 +1,2 @@
+class WantToReadsController < ApplicationController
+end
